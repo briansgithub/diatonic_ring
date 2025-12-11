@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+---
+
+- Do not allow files to exceed 400 lines. If a file needs to exceed 300 lines, consult with me first, describing the reason why it must exceed 300 lines and whether you think the functionality of the file should be encapsulated and sub-divided into smaller modules to conform to good style and readability practices
+
+- When writing any scripts for debug testing, put them (and any files they may produce) in a "_Debug_testing" directory
+
+- When writing any scripts for testing for the purpose of gaining information, put them (and any files they may produce) in a "_Research_testing" directory
